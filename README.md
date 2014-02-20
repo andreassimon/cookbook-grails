@@ -1,2 +1,11 @@
-cookbook-grails
-===============
+Description
+===========
+
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
